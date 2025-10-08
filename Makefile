@@ -1,7 +1,7 @@
-ARTIFACT = RFC-THREAD
+ARTIFACT = QNX_TFC1_IPC
 
 #Build architecture/variant string, possible values: x86, armv7le, etc...
-PLATFORM ?= armv7le
+PLATFORM ?= aarch64le
 
 #Build profile, possible values: release, debug, profile, coverage
 BUILD_PROFILE ?= debug
